@@ -3,6 +3,7 @@
     "displayName": "Elsa Syntax",
     "description": "Adds supports for the Elsa language",
     "version": "0.0.1",
+    "publisher": "test",
     "engines": {
         "vscode": "^1.30.0"
     },
